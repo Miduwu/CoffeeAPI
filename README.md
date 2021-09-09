@@ -7,3 +7,5 @@ The project is fully open source. You're allowed to fork and create your own, lo
 # Website
 - Frameworks
   - [ModestaCSS](https://github.com/AlexFlipnote/ModestaCSS)
+
+# I JUST USED THIS FOR MY PERSONAL BLOG LOL, ALL CREDITS TO ALEXFLIPNOTE
